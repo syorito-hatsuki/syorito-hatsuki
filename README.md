@@ -45,23 +45,23 @@
    </thead>
    <tbody>
     <tr>
-      <td>Työturvallisuuskortti, OSAO Kaukovainion yksikkö</td>
+      <td>Occupational Safety card, OSAO Kaukovainio unit</td>
       <td>2018 ~ 2024</td>
      </tr>
      <tr>
-       <td>Sähköturvallisuuskortti, OSAO Kaukovainion yksikkö</td>
+       <td>Electrical Safety card, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2024</td>
      </tr>
      <tr>
-       <td>Ensiapukurssi, OSAO Kaukovainion yksikkö</td>
+       <td>First aid course, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2022</td>
      </tr>
      <tr>
-       <td>Tulityökortti, OSAO Kaukovainion yksikkö</td>
+       <td>Fire work card, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2023</td>
      </tr>
      <tr>
-       <td>Hygieniapassi, OSAO</td>
+       <td>Hygiene passport, OSAO</td>
        <td>2019 ~ Endless</td>
      </tr>
     </tbody>
@@ -119,9 +119,11 @@
   </table>
 </div>
 
-## IT skills
+## Skills
 
-### Programming
+### IT
+
+#### Programming
 
 <div align="center">
   <table>
@@ -162,7 +164,7 @@
   </table>
 </div>
 
-#### Stats
+##### Stats
 <div align="center">
   <a href="https://github.com/syorito-hatsuki">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syorito-hatsuki&show_icons=true&include_all_commits=true&theme=vue"/>
@@ -172,7 +174,7 @@
   </a>
 </div>
 
-### Software
+#### Software
 
 <div align="center">
   <table>
@@ -202,6 +204,37 @@
      <tr>
        <td>Intellij Apps</td>
        <td>Good</td>
+     </tr>
+    </tbody>
+  </table>
+</div>
+
+### Language
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Language</th>
+        <th>Level</th>
+      </tr>
+   </thead>
+   <tbody>
+    <tr>
+      <td>Russian</td>
+      <td>Native</td>
+     </tr>
+     <tr>
+       <td>Finnish</td>
+       <td>Great</td>
+     </tr>
+     <tr>
+       <td>English</td>
+       <td>Basic+</td>
+     </tr>
+     <tr>
+       <td>Ukrainian</td>
+       <td>Understand</td>
      </tr>
     </tbody>
   </table>
