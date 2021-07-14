@@ -22,11 +22,11 @@
    </thead>
    <tbody>
     <tr>
-      <td>Elektroniikka-asentaja, OSAO Kaukovainion yksikkö</td>
+      <td>Electronics Technician, OSAO Kaukovainio unit</td>
       <td>8.2018 ~ 9.2021</td>
      </tr>
      <tr>
-       <td>Peruskoulu</td>
+       <td>Primary school</td>
        <td>2009 ~ 2018</td>
      </tr>
     </tbody>
