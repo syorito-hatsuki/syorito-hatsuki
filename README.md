@@ -230,7 +230,7 @@
      </tr>
      <tr>
        <td>English</td>
-       <td>Intermidiate</td>
+       <td>Intermediate</td>
      </tr>
      <tr>
        <td>Ukrainian</td>
