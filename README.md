@@ -240,5 +240,5 @@
   </table>
 </div>
 
-## Hobbys
+## Hobbies
 I like to play sports. In addition, I like to repair various electronics to kill time
