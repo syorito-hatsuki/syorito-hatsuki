@@ -164,16 +164,6 @@
   </table>
 </div>
 
-##### Stats
-<div align="center">
-  <a href="https://github.com/syorito-hatsuki">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=syorito-hatsuki&show_icons=true&include_all_commits=true&theme=vue"/>
-  </a>
-  <a href="https://github.com/syorito-hatsuki">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syorito-hatsuki&include_all_commits=true&theme=vue" alt="Anurag's github stats" />
-  </a>
-</div>
-
 #### Software
 
 <div align="center">
