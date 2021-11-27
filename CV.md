@@ -21,12 +21,12 @@
       </tr>
    </thead>
    <tbody>
-    <tr>
-      <td>Electronics Technician, OSAO Kaukovainio unit</td>
-      <td>8.2018 ~ 9.2021</td>
+     <tr>
+       <td align="right">Electronics Technician, OSAO Kaukovainio unit</td>
+       <td>8.2018 ~ 9.2021</td>
      </tr>
      <tr>
-       <td>Primary school</td>
+       <td align="right">Primary school</td>
        <td>2009 ~ 2018</td>
      </tr>
     </tbody>
@@ -44,24 +44,24 @@
       </tr>
    </thead>
    <tbody>
-    <tr>
-      <td>Occupational Safety card, OSAO Kaukovainio unit</td>
-      <td>2018 ~ 2024</td>
-     </tr>
      <tr>
-       <td>Electrical Safety card, OSAO Kaukovainio unit</td>
+       <td align="right">Occupational Safety card, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2024</td>
      </tr>
      <tr>
-       <td>First aid course, OSAO Kaukovainio unit</td>
+       <td align="right">Electrical Safety card, OSAO Kaukovainio unit</td>
+       <td>2018 ~ 2024</td>
+     </tr>
+     <tr>
+       <td align="right">First aid course, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2022</td>
      </tr>
      <tr>
-       <td>Fire work card, OSAO Kaukovainio unit</td>
+       <td align="right">Fire work card, OSAO Kaukovainio unit</td>
        <td>2018 ~ 2023</td>
      </tr>
      <tr>
-       <td>Hygiene passport, OSAO</td>
+       <td align="right">Hygiene passport, OSAO</td>
        <td>2019 ~ Endless</td>
      </tr>
     </tbody>
@@ -80,39 +80,44 @@
       </tr>
    </thead>
    <tbody>
-    <tr>
-      <td>Riots</td>
-      <td>Electronics Technician</td>
-      <td>1.2021 ~ 3.2021</td>
+     <tr>
+       <td align="right">Freelance</td>
+       <td align="center">Android Software Developer</td>
+       <td>2019 ~ Now</td>
      </tr>
      <tr>
-       <td>SPR-Kontti</td>
-       <td>Device tester and vendor</td>
+       <td align="right">Riots</td>
+       <td align="center">Electronics Technician</td>
+       <td>1.2021 ~ 3.2021</td>
+     </tr>
+     <tr>
+       <td align="right">SPR-Kontti</td>
+       <td align="center">Device tester and vendor</td>
        <td>7.2020 ~ 8.2020</td>
      </tr>
      <tr>
-       <td>iLOQ</td>
-       <td>Production</td>
+       <td align="right">iLOQ</td>
+       <td align="center">Production</td>
        <td>11.2019 ~ 1.2020</td>
      </tr>
      <tr>
-       <td>Jäätelökioski, 4H</td>
-       <td>Seller</td>
+       <td align="right">Jäätelökioski, 4H</td>
+       <td align="center">Seller</td>
        <td>7.2019 ~ 8.2019</td>
      </tr>
      <tr>
-       <td>Jäätelökioski, 4H</td>
-       <td>Seller</td>
+       <td align="right">Jäätelökioski, 4H</td>
+       <td align="center">Seller</td>
        <td>6.2018 ~ 7.2018</td>
      </tr>
      <tr>
-       <td>K-market</td>
-       <td>Seller</td>
+       <td align="right">K-market</td>
+       <td align="center">Seller</td>
        <td>3.2018 ~ 4.2018</td>
      </tr>
      <tr>
-       <td>Posti</td>
-       <td>Sorter</td>
+       <td align="right">Posti</td>
+       <td align="center">Sorter</td>
        <td>4.2017 ~ 5.2017</td>
      </tr>
     </tbody>
@@ -136,28 +141,28 @@
    </thead>
    <tbody>
     <tr>
-      <td>Java</td>
-      <td>Android Native</td>
+      <td align="right">Java</td>
+      <td align="center">Android Native</td>
       <td><4</td>
      </tr>
     <tr>
-      <td>Java</td>
-      <td>JavaFX</td>
+      <td align="right">Java</td>
+      <td align="center">JavaFX</td>
       <td>>1</td>
      </tr>
      <tr>
-       <td>Kotlin</td>
-       <td>Android Native</td>
+       <td align="right">Kotlin</td>
+       <td align="center">Android Native</td>
        <td>>1</td>
      </tr>
      <tr>
-       <td>C++</td>
-       <td>Qt5 Desktop</td>
+       <td align="right">C++</td>
+       <td align="center">Qt5 Desktop</td>
        <td>>1</td>
      </tr>
      <tr>
-       <td>C++</td>
-       <td>Arduino</td>
+       <td align="right">C++</td>
+       <td align="center">Arduino</td>
        <td><2</td>
      </tr>
     </tbody>
@@ -171,28 +176,49 @@
     <thead>
       <tr>
         <th>App</th>
+        <th>Type</th>
         <th>Level</th>
       </tr>
    </thead>
    <tbody>
     <tr>
-      <td>Office</td>
+      <td align="right">Libre office</td>
+      <td align="center">Office</td>
       <td>Basic</td>
      </tr>
      <tr>
-       <td>KiCAD</td>
+       <td align="right">KiCAD</td>
+       <td align="center">CAD</td>
        <td>Basic</td>
      </tr>
      <tr>
-       <td>Git</td>
+       <td align="right">Git</td>
+       <td align="center">Vesion Contril</td>
        <td>Good</td>
      </tr>
      <tr>
-       <td>Linux</td>
-       <td>Main system</td>
+       <td align="right">Linux</td>
+       <td align="center">Operation System</td>
+       <td>Main</td>
      </tr>
      <tr>
-       <td>Intellij Apps</td>
+       <td align="right">MacOS</td>
+       <td align="center">Operation System</td>
+       <td>Basic</td>
+     </tr>
+     <tr>
+       <td align="right">Windows</td>
+       <td align="center">Operation System</td>
+       <td>Hate</td>
+     </tr>
+     <tr>
+       <td align="right">JetBrains Software</td>
+       <td align="center">IDE</td>
+       <td>Good</td>
+     </tr>
+     <tr>
+       <td align="right">VS Code</td>
+       <td align="center">IDE</td>
        <td>Good</td>
      </tr>
     </tbody>
@@ -210,19 +236,19 @@
       </tr>
    </thead>
    <tbody>
-    <tr>
+    <tr align="center">
       <td>Russian</td>
       <td>Native</td>
      </tr>
-     <tr>
+     <tr align="center">
        <td>Finnish</td>
        <td>Great</td>
      </tr>
-     <tr>
+     <tr align="center">
        <td>English</td>
        <td>Intermediate</td>
      </tr>
-     <tr>
+     <tr align="center">
        <td>Ukrainian</td>
        <td>Understand</td>
      </tr>
