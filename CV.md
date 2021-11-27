@@ -1,13 +1,16 @@
 # Curriculum Vitae
 
-## Basic info
-
 <div align="center">
     <b>Nikita Norov</b>
-    <br><a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Isokatu 73 90120 Oulu</a>
-    <br><a href="tel:+358401743060">Puh. 0401743060</a>
-    <br><a href="mailto:nikita.norov.2002@gmail.com">nikita.norov.2002@gmail.com</a>
-    <br><a href="https://fstudio.dev">Fuomitsu Studio Site</a>
+    <br><a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
+     | <a href="tel:+358401743060">Call (Mobile only)</a>
+     | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
+</div>
+<div align="center">
+    <br><a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
+    <br><a href="https://github.com/syorito-hatsuki">Github</a>
+     | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
+     | <a href="https://telegram.me/syoritohatsuki">Telegram</a>
 </div>
 
 ## Education
@@ -135,35 +138,21 @@
     <thead>
       <tr>
         <th>Programming languages</th>
-        <th>Scope</th>
-        <th>Practice Year</th>
+        <th>Stack</th>
       </tr>
    </thead>
    <tbody>
     <tr>
       <td align="right">Java</td>
-      <td align="center">Android Native</td>
-      <td><4</td>
-     </tr>
-    <tr>
-      <td align="right">Java</td>
-      <td align="center">JavaFX</td>
-      <td>>1</td>
+      <td>Android, JavaFX, Forge</td>
      </tr>
      <tr>
        <td align="right">Kotlin</td>
-       <td align="center">Android Native</td>
-       <td>>1</td>
+         <td>Android, Koin, Retrofit, TornadoFX</td>
      </tr>
      <tr>
        <td align="right">C++</td>
-       <td align="center">Qt5 Desktop</td>
-       <td>>1</td>
-     </tr>
-     <tr>
-       <td align="right">C++</td>
-       <td align="center">Arduino</td>
-       <td><2</td>
+       <td>Qt5 Desktop, Arduino</td>
      </tr>
     </tbody>
   </table>
