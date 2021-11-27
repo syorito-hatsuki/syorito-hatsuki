@@ -1,21 +1,20 @@
-# Curriculum Vitae
-
 <div align="center">
-    <b>Nikita Norov</b>
+    <h1>Curriculum Vitae</h1>
+    <h2>Nikita Norov</h2>
+    <br>
+    <b>About me</b>
+        <p width="10">19 years. Hyperactive programmer with little experience in teamwork, <br>but always ready to learn new things. About my hobbies. <br>I love to play games and I also enjoy fixing various electronics to kill time.</p>
+    <br>
     <br><a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
      | <a href="tel:+358401743060">Call (Mobile only)</a>
      | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
-</div>
-<div align="center">
-    <br><a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
+    <br><br><a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
     <br><a href="https://github.com/syorito-hatsuki">Github</a>
      | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
      | <a href="https://telegram.me/syoritohatsuki">Telegram</a>
-</div>
+     | <a href="https://play.google.com/store/apps/developer?id=Fuomitsu+Studio">Google Play</a>
+    <h2>Education</h2>
 
-## Education
-
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -34,11 +33,9 @@
      </tr>
     </tbody>
   </table>
-</div>
 
-## Courses
+<h2>Courses</h2>
 
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -69,11 +66,9 @@
      </tr>
     </tbody>
   </table>
-</div>
 
-## Work experience
+<h2>Work experience</h2>
 
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -125,15 +120,13 @@
      </tr>
     </tbody>
   </table>
-</div>
 
-## Skills
+<h2>Skills</h2>
 
-### IT
+<h3>IT</h3>
 
-#### Programming
+<h4>Programming</h4>
 
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -156,11 +149,9 @@
      </tr>
     </tbody>
   </table>
-</div>
 
-#### Software
+<h4>Software</h4>
 
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -212,11 +203,9 @@
      </tr>
     </tbody>
   </table>
-</div>
 
-### Language
+<h3>Language</h3>
 
-<div align="center">
   <table>
     <thead>
       <tr>
@@ -244,6 +233,3 @@
     </tbody>
   </table>
 </div>
-
-## Hobbies
-I like to play sports. In addition, I like to repair various electronics to kill time
