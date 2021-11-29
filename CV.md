@@ -1,21 +1,25 @@
 <div align="center">
-    <h1>Curriculum Vitae</h1>
-    <h2>Nikita Norov</h2>
-    <br>
-    <b>About me</b>
-        <p width="10">19 years. Hyperactive programmer with little experience in teamwork, <br>but always ready to learn new things. About my hobbies. <br>I love to play games and I also enjoy fixing various electronics to kill time.</p>
-    <br>
-    <br><a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
-     | <a href="tel:+358401743060">Call (Mobile only)</a>
-     | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
-    <br><br><a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
-    <br><a href="https://github.com/syorito-hatsuki">Github</a>
-     | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
-     | <a href="https://telegram.me/syoritohatsuki">Telegram</a>
-     | <a href="https://play.google.com/store/apps/developer?id=Fuomitsu+Studio">Google Play</a>
-     | <a href="https://stackoverflow.com/users/12771929/syorito-hatsuki">stack<b>overflow</b></a>
-    <h2>Education</h2>
+  <h1>Curriculum Vitae</h1>
+  <h2>Nikita Norov</h2>
+  <br>
+  <b>About me</b>
+      <p width="10">19 years. Hyperactive programmer with little experience in teamwork, <br>but always ready to learn new things. About my hobbies. <br>I love to play games and I also enjoy fixing various electronics to kill time.</p>
+  <br>
+  <br>
+  <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
+    | <a href="tel:+358401743060">Call (Mobile only)</a>
+    | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
+  <br>
+  <br>
+  <a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
+  <br>
+  <a href="https://github.com/syorito-hatsuki">Github</a>
+    | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
+    | <a href="https://telegram.me/syoritohatsuki">Telegram</a>
+    | <a href="https://play.google.com/store/apps/developer?id=Fuomitsu+Studio">Google Play</a>
+    | <a href="https://stackoverflow.com/users/12771929/syorito-hatsuki">stack<b>overflow</b></a>
 
+  <h2>Education</h2>
   <table>
     <thead>
       <tr>
@@ -36,7 +40,6 @@
   </table>
 
 <h2>Courses</h2>
-
   <table>
     <thead>
       <tr>
@@ -69,7 +72,6 @@
   </table>
 
 <h2>Work experience</h2>
-
   <table>
     <thead>
       <tr>
@@ -123,11 +125,8 @@
   </table>
 
 <h2>Skills</h2>
-
 <h3>IT</h3>
-
 <h4>Programming</h4>
-
   <table>
     <thead>
       <tr>
@@ -152,7 +151,6 @@
   </table>
 
 <h4>Software</h4>
-
   <table>
     <thead>
       <tr>
@@ -206,7 +204,6 @@
   </table>
 
 <h3>Language</h3>
-
   <table>
     <thead>
       <tr>
