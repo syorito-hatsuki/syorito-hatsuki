@@ -19,6 +19,44 @@
     | <a href="https://play.google.com/store/apps/developer?id=Fuomitsu+Studio">Google Play</a>
     | <a href="https://stackoverflow.com/users/12771929/syorito-hatsuki">stack<b>overflow</b></a>
 
+  <h2>Public Portfolio</h2>
+  <table>    
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Position</th>
+        <th>Stack</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
+        <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
+        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX</td>
+        <td>The project was frozen due to design problems. At the moment I am rewriting a mobile application in Kotlin with a new design
+          <br> 
+          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/KotlinGallery/master/example.jpg"/></td>
+        <td>Main developer</td>
+        <td>Kotlin, Koin, Retrofit, Glide, NavigationUI</td>
+        <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
+          <br>
+          <a href="https://raw.githubusercontent.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
+        </td>
+      </tr>
+      <!--tr>
+        <td><img src="recomend-github-banner"/></td>
+        <td>position</td>
+        <td>stack</td>
+        <td>status</td>
+      </tr-->
+    </tbody>
+  </table>
+  
   <h2>Education</h2>
   <table>
     <thead>
