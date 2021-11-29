@@ -13,6 +13,7 @@
      | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
      | <a href="https://telegram.me/syoritohatsuki">Telegram</a>
      | <a href="https://play.google.com/store/apps/developer?id=Fuomitsu+Studio">Google Play</a>
+     | <a href="https://stackoverflow.com/users/12771929/syorito-hatsuki">stack<b>overflow</b></a>
     <h2>Education</h2>
 
   <table>
