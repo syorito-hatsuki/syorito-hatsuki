@@ -40,7 +40,7 @@
         </td>
       </tr>
       <tr>
-        <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/KotlinGallery/master/example.jpg"/></td>
+        <td><img src="https://github.com/syorito-hatsuki/KotlinGallery/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
         <td>Kotlin, Koin, Retrofit, Glide, NavigationUI</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
