@@ -33,7 +33,7 @@
       <tr>
         <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
         <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
-        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX</td>
+        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
         <td>The project was frozen due to design problems. At the moment I am rewriting a mobile application in Kotlin with a new design
           <br> 
           <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
@@ -46,6 +46,15 @@
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
           <br>
           <a href="https://raw.githubusercontent.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://github.com/syorito-hatsuki/WallpaperAppTemplate/blob/master/banner.jpg?raw=true"/></td>
+        <td>Main developer</td>
+        <td>Java, Asset, RecyclerView, Glide</td>
+        <td>Some experements with assets and recyclerview on java
+          <br>
+          <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
         </td>
       </tr>
       <!--tr>
