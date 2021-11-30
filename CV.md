@@ -179,7 +179,7 @@
      </tr>
      <tr>
        <td align="right">Kotlin</td>
-         <td>Android, Koin, Retrofit, TornadoFX</td>
+         <td>Android, Koin, Retrofit, TornadoFX, JetPack NavigationUI</td>
      </tr>
      <tr>
        <td align="right">C++</td>
