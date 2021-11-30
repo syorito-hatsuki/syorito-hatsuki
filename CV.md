@@ -34,7 +34,7 @@
         <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
         <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
         <td>Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
-        <td>The project was frozen due to design problems. At the moment I am rewriting a mobile application in Kotlin with a new design
+        <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
           <hr> 
           <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
         </td>
