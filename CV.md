@@ -57,6 +57,12 @@
           <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
         </td>
       </tr>
+      <tr align="center">
+        <td>Adding</>
+        <td>in</>
+        <td>the</>
+        <td>process...</>
+      <tr>
       <!--tr>
         <td><img src="recomend-github-banner"/></td>
         <td>position</td>
