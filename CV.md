@@ -45,7 +45,7 @@
         <td>Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
           <hr>
-          <a href="https://raw.githubusercontent.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
         </td>
       </tr>
       <tr>
