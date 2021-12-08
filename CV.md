@@ -58,10 +58,10 @@
         </td>
       </tr>
       <tr align="center">
-        <td>Adding</>
-        <td>in</>
-        <td>the</>
-        <td>process...</>
+        <td></>
+        <td>I have work that I have not yet added to this list.</>
+        <td></>
+        <td></>
       <tr>
       <!--tr>
         <td><img src="recomend-github-banner"/></td>
