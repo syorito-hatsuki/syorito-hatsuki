@@ -3,13 +3,12 @@
   <h2>Nikita Norov</h2>
   <br>
   <b>About me</b>
-    <p>Hyperactive programmer with teamwork and freelance experience.
+    <p>Hyperactive programmer. With teamwork and freelance experience.
       <br>Always ready to learn new things like new technologies and goodies.
-      <br>Started my programming life with JS and game modding, after that moved
-      <br>for long time to Android on Java. Last half year learning Android + Kotlin
+      <br>I started my programmer life with JS and game modding and, after that,
+      <br>I moved for a long time to Android on Java. Last half year learned Android + Kotlin.
       <br>
-      <br>
-      About my hobbies... I love to play games and I also enjoy fixing various electronics to kill time.
+      <br>About my hobbies..., I love to play games, also enjoy fixing various electronics to kill time.
     </p>
   <br>
   <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
@@ -37,21 +36,23 @@
     </thead>
     <tbody>
       <tr>
-        <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
-        <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
-        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
-        <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
-          <hr> 
-          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
-        </td>
-      </tr>
-      <tr>
         <td><img src="https://github.com/syorito-hatsuki/KotlinGallery/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
         <td>Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
+          <p align="right">Ended: Jul 17, 2021</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
+        <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
+        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
+        <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
+          <p align="right">Ended: Jul 20, 2020</p>
+          <hr>
+          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
         </td>
       </tr>
       <tr>
@@ -59,13 +60,14 @@
         <td>Main developer</td>
         <td>Java, Asset, RecyclerView, Glide</td>
         <td>Some experements with assets and recyclerview on java
+          <p align="right">Ended: Jun 8, 2019</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
         </td>
       </tr>
       <tr align="center">
         <td></>
-        <td>I have work that I have not yet added to this list.</>
+        <td>I have work that not yet added to this list.</>
         <td>Currently writing README for another repo's</>
         <td></>
       <tr>
