@@ -46,9 +46,19 @@
         </td>
       </tr>
       <tr>
+        <td><img src="https://play-lh.googleusercontent.com/ojuUfQrl3jyzvV9n4ZWWNhtykAspAabqtlBAvB9YfDjD60xphEpM-8VBVdg-zHSpcg"/></td>
+        <td>Main developer</td>
+        <td>Android, Java, Kotlin, Asset, Markdown, NavigationUI, Kotlin DSL, DataBining, Glide, AdMob, SharedPreference, Android Legacy</td>
+        <td>The oldest and partly the best project, because it was made with a soul and taught me a lot. It's coming to an end for now
+          <p align="right">Last update under work</p>
+          <hr>
+          <a href="https://play.google.com/store/apps/details?id=com.name.a123456789.prilozenie">Google Play</a>
+        </td>
+      </tr>
+      <tr>
         <td><img src="https://github.com/syorito-hatsuki/KotlinGallery/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
-        <td>Android, Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
+        <td>Android, Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI, DataBining</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
           <p align="right">Ended: Jul 17, 2021</p>
           <hr>
