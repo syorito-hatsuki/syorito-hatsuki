@@ -40,6 +40,8 @@
         <td>PCB designer, Main developer</td>
         <td>Arduino, C++, PlatformIO, KiCAD</td>
         <td>Order: Make a PCB board and code for Arduino based on the prototype of spot welding
+          <br>
+          <br>
           <p align="right">In the progress...</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/Spot-Welding">(Branch: master)</a>
@@ -50,7 +52,9 @@
         <td>Main developer</td>
         <td>Android, Java, Kotlin, Asset, Markdown, NavigationUI, Kotlin DSL, DataBining, Glide, AdMob, SharedPreference, Android Legacy</td>
         <td>The oldest and partly the best project, because it was made with a soul and taught me a lot. It's coming to an end for now
-          <p align="right">Last update under work</p>
+          <br>
+          <br>
+          <p align="right">The last update will be released in 2022</p>
           <hr>
           <a href="https://play.google.com/store/apps/details?id=com.name.a123456789.prilozenie">Google Play</a>
         </td>
@@ -60,6 +64,8 @@
         <td>Main developer</td>
         <td>Android, Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI, DataBining</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
+          <br>
+          <br>
           <p align="right">Ended: Jul 17, 2021</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
@@ -70,6 +76,8 @@
         <td>Main developer</td>
         <td>C++, Qt5, Kotlin, TornadoFX, Python</td>
         <td>Friend asked to create a translator for game [Cyrillic -> Latin (transcript cyrillic)]
+          <br>
+          <br>
           <p align="right">Ended: Jul 3, 2021</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/Ru2Latin">(Branch: master)</a>
@@ -80,6 +88,8 @@
         <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
         <td>Android, Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
         <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
+          <br>
+          <br>
           <p align="right">Ended: Jul 20, 2020</p>
           <hr>
           <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
@@ -90,6 +100,8 @@
         <td>Android Java Developer, Team Leader</td>
         <td>Android, Java, Constraint Layout Release</td>
         <td>School project with random student
+          <br>
+          <br>
           <p align="right">Ended: Sep 17, 2019</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/SimplePaint">(Branch: master)</a>
@@ -100,6 +112,8 @@
         <td>Main developer</td>
         <td>Android, Java, Asset, RecyclerView, Glide</td>
         <td>Some experements with assets and recyclerview on java
+          <br>
+          <br>
           <p align="right">Ended: Jun 8, 2019</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
@@ -116,6 +130,8 @@
         <td>position</td>
         <td>stack</td>
         <td>status
+          <br>
+          <br>
           <p align="right">Ended: </p>
           <hr>
           <a href="">(Branch: )</a>
