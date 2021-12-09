@@ -36,6 +36,16 @@
     </thead>
     <tbody>
       <tr>
+        <td><img src="https://miro.medium.com/max/2000/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg"/></td>
+        <td>PCB designer, Main developer</td>
+        <td>Arduino, C++, PlatformIO, KiCAD</td>
+        <td>Order: Make a PCB board and code for Arduino based on the prototype of spot welding
+          <p align="right">In the progress...</p>
+          <hr>
+          <a href="https://github.com/syorito-hatsuki/Spot-Welding">(Branch: master)</a>
+        </td>
+      </tr>
+      <tr>
         <td><img src="https://github.com/syorito-hatsuki/KotlinGallery/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
         <td>Android, Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
