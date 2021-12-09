@@ -38,40 +38,51 @@
       <tr>
         <td><img src="https://github.com/syorito-hatsuki/KotlinGallery/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
-        <td>Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
+        <td>Android, Kotlin, Asset, Koin, Retrofit, Glide, NavigationUI</td>
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
           <p align="right">Ended: Jul 17, 2021</p>
           <hr>
-          <a href="https://github.com/syorito-hatsuki/KotlinGallery" target="_blank">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
         </td>
       </tr>
       <tr>
         <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/Ru2Latin/master/screenshots/main.png"/></td>
-        <td>position</td>
-        <td>stack</td>
-        <td>status
+        <td>Main developer</td>
+        <td>C++, Qt5, Kotlin, TornadoFX, Python</td>
+        <td>Friend asked to create a translator for game [Cyrillic -> Latin (transcript cyrillic)]
+          <p align="right">Ended: Jul 3, 2021</p>
           <hr>
-          <a href="">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/Ru2Latin">(Branch: master)</a>
         </td>
       </tr>
       <tr>
         <td><img src="https://github.com/kerusey/CoffeeBreaker/blob/master/Schemes/WhiteNewLogo.png?raw=true"/></td>
         <td>Project Manager, Main Java Android Developer, Moral support of the team</td>
-        <td>Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
+        <td>Android, Java, Java HTTP (API Requests), Android SDK, UI/UX, Picasso</td>
         <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
           <p align="right">Ended: Jul 20, 2020</p>
           <hr>
-          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor" target="_blank">(Branch: AndroidRefactor)</a>
+          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://miro.medium.com/max/2000/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg"/></td>
+        <td>Android Java Developer, Team Leader</td>
+        <td>Android, Java, Constraint Layout Release</td>
+        <td>School project with random student
+          <p align="right">Ended: Sep 17, 2019</p>
+          <hr>
+          <a href="https://github.com/syorito-hatsuki/SimplePaint">(Branch: master)</a>
         </td>
       </tr>
       <tr>
         <td><img src="https://github.com/syorito-hatsuki/WallpaperAppTemplate/blob/master/banner.jpg?raw=true"/></td>
         <td>Main developer</td>
-        <td>Java, Asset, RecyclerView, Glide</td>
+        <td>Android, Java, Asset, RecyclerView, Glide</td>
         <td>Some experements with assets and recyclerview on java
           <p align="right">Ended: Jun 8, 2019</p>
           <hr>
-          <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate" target="_blank">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
         </td>
       </tr>
       <tr align="center">
@@ -85,6 +96,7 @@
         <td>position</td>
         <td>stack</td>
         <td>status
+          <p align="right">Ended: </p>
           <hr>
           <a href="">(Branch: )</a>
         </td>
