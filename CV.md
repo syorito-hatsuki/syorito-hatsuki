@@ -3,8 +3,14 @@
   <h2>Nikita Norov</h2>
   <br>
   <b>About me</b>
-      <p width="10">19 years. Hyperactive programmer with little experience in teamwork, <br>but always ready to learn new things. About my hobbies. <br>I love to play games and I also enjoy fixing various electronics to kill time.</p>
-  <br>
+    <p>Hyperactive programmer with teamwork and freelance experience.
+      <br>Always ready to learn new things like new technologies and goodies.
+      <br>Started my programming life with JS and game modding, after that moved
+      <br>for long time to Android on Java. Last half year learning Android + Kotlin
+      <br>
+      <br>
+      About my hobbies... I love to play games and I also enjoy fixing various electronics to kill time.
+    </p>
   <br>
   <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
     | <a href="tel:+358401743060">Call (Mobile only)</a>
