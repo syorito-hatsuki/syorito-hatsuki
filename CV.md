@@ -12,7 +12,7 @@
     </p>
   <br>
   <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
-    | <a href="tel:+358401743060">Call (+358401743060)</a>
+    | <a href="tel:+358401743060">+358401743060</a>
     | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
   <br>
   <br>
