@@ -42,7 +42,16 @@
         <td>First project for learn Koin + Retrofit and trying undestand Dependens Injection
           <p align="right">Ended: Jul 17, 2021</p>
           <hr>
-          <a href="https://github.com/syorito-hatsuki/KotlinGallery">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/KotlinGallery" target="_blank">(Branch: master)</a>
+        </td>
+      </tr>
+      <tr>
+        <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/Ru2Latin/master/screenshots/main.png"/></td>
+        <td>position</td>
+        <td>stack</td>
+        <td>status
+          <hr>
+          <a href="">(Branch: master)</a>
         </td>
       </tr>
       <tr>
@@ -52,7 +61,7 @@
         <td>The project was frozen due to design and architecture problems. At the moment I am rewriting a mobile application in Kotlin with a new design
           <p align="right">Ended: Jul 20, 2020</p>
           <hr>
-          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor">(Branch: AndroidRefactor)</a>
+          <a href="https://github.com/kerusey/CoffeeBreaker/tree/AndroidRefactor" target="_blank">(Branch: AndroidRefactor)</a>
         </td>
       </tr>
       <tr>
@@ -62,7 +71,7 @@
         <td>Some experements with assets and recyclerview on java
           <p align="right">Ended: Jun 8, 2019</p>
           <hr>
-          <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate">(Branch: master)</a>
+          <a href="https://github.com/syorito-hatsuki/WallpaperAppTemplate" target="_blank">(Branch: master)</a>
         </td>
       </tr>
       <tr align="center">
