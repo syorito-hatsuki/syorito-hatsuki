@@ -6,14 +6,14 @@
     <p>Hyperactive programmer. With teamwork and freelance experience.
       <br>Always ready to learn new things like new technologies and goodies.
       <br>I started my programmer life with JS and game modding and, after that,
-      <br>I moved for a long time to Android on Java. Last half year learned Android + Kotlin.
+      <br>I moved for a long time to Android on Java. Last half year learned Android Kotlin + Native Kotlin.
       <br>
       <br>About my hobbies..., I love to play games, also enjoy fixing various electronics to kill time.
     </p>
   <br>
-  <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Address</a>
+  <a href="https://www.google.com/maps/place/Isokatu+73,+90120+Oulu">Isokatu 73, 90120 Oulu</a>
     | <a href="tel:+358401743060">+358401743060</a>
-    | <a href="mailto:nikita.norov.2002@gmail.com">Send mail</a>
+    | <a href="mailto:nikita.norov.2002@gmail.com">nikita.norov.2002@gmail.com</a>
   <br>
   <br>
   <a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
