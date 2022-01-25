@@ -258,11 +258,11 @@
    <tbody>
     <tr>
       <td align="right">Java</td>
-      <td>Android, JavaFX, Forge</td>
+      <td>Android, JavaFX, Forge, Retrofit</td>
      </tr>
      <tr>
        <td align="right">Kotlin</td>
-         <td>Android, Koin, Retrofit, TornadoFX, JetPack NavigationUI</td>
+         <td>Android, Koin, TornadoFX, JetPack NavigationUI, Ktor</td>
      </tr>
      <tr>
        <td align="right">C++</td>
