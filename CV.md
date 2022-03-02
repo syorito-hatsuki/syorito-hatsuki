@@ -16,7 +16,7 @@
     | <a href="mailto:nikita.norov.2002@gmail.com">nikita.norov.2002@gmail.com</a>
   <br>
   <br>
-  <a href="https://fstudio.dev">My webpage (Unavaible right now)</a>
+  <a href="https://syorito-hatsuki.dev">My webpage</a>
   <br>
   <a href="https://github.com/syorito-hatsuki">Github</a>
     | <a href="https://www.linkedin.com/in/nikita-norov-22b4441b5">Linkedin</a>
@@ -35,6 +35,18 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/Ellison/master/banner.jpg"/></td>
+        <td>Main developer</td>
+        <td>Kotlin, Ktor, Kotlin Serialization, Diskord, Exposed, Koin, TomlKt</td>
+        <td>Order from Youtuber: Discord bot, web backend and coming soon android app for admins
+          <br>
+          <br>
+          <p align="right">In the progress...</p>
+          <hr>
+          <a href="https://github.com/syorito-hatsuki/Spot-Welding">(Branch: master)</a>
+        </td>
+      </tr>
       <tr>
         <td><img src="https://miro.medium.com/max/2000/1*JLYlSLSK8-AZo8gt9UdYqA.jpeg"/></td>
         <td>PCB designer, Main developer</td>
