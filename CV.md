@@ -108,7 +108,7 @@
         </td>
       </tr>
       <tr>
-        <td><img src="https://raw.githubusercontent.com/syorito-hatsuki/SimplePaint/master/banner.png"/></td>
+        <td><img src="https://github.com/syorito-hatsuki/SimplePaint/blob/master/banner.png?raw=true"/></td>
         <td>Android Java Developer, Team Leader</td>
         <td>Android, Java, Constraint Layout Release</td>
         <td>School project with random student
