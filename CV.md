@@ -42,7 +42,7 @@
         <td>Order from Youtuber: Discord bot, web backend and coming soon android app for admins
           <br>
           <br>
-          <p align="right">In the progress...</p>
+          <p align="right">In the progress...<br>Moved to private server</p>
           <hr>
           <a href="https://github.com/syorito-hatsuki/Spot-Welding">(Branch: master)</a>
         </td>
