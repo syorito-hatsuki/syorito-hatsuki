@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Curriculum Vitae</h1>
-  <h2>Nikita Norov</h2>
+  <h2>Kit Lehto</h2>
   <br>
   <b>About me</b>
     <p>Hyperactive programmer. With teamwork and freelance experience.
