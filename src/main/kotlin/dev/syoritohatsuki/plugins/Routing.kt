@@ -5,14 +5,10 @@ import io.ktor.server.http.content.*
 import io.ktor.server.routing.*
 
 fun Application.configureRouting() {
-
     routing {
         static("/") {
             staticBasePackage = "static"
             defaultResource("index.html")
-            resource("css/style.css")
-            resource("icons/curseforge.svg")
-            resource("icons/modrinth.svg")
         }
     }
 }

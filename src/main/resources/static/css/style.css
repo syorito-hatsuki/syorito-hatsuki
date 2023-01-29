@@ -259,7 +259,7 @@ body {
 }
 
 .fa-curseforge {
-    background: url('./../icons/curseforge.svg') no-repeat;
+    background: url('https://raw.githubusercontent.com/syorito-hatsuki/syorito-hatsuki/cv-page/src/main/resources/static/icons/curseforge.svg') no-repeat;
     background-size: cover;
     display: inline-block;
     height: 10px;
@@ -267,7 +267,7 @@ body {
 }
 
 .fa-modrinth {
-    background: url('./../icons/modrinth.svg') no-repeat;
+    background: url('https://raw.githubusercontent.com/syorito-hatsuki/syorito-hatsuki/cv-page/src/main/resources/static/icons/modrinth.svg') no-repeat;
     background-size: cover;
     display: inline-block;
     height: 20px;
