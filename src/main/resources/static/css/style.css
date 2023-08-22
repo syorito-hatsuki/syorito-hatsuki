@@ -69,8 +69,7 @@ body {
     border-bottom: 2px solid #B9F6CA;
 }
 
-.resume .resume_left .resume_item:last-child,
-.resume .resume_right .resume_item:last-child {
+.resume .resume_left .resume_item:last-child, .resume .resume_right .resume_item:last-child {
     border-bottom: 0;
 }
 
@@ -95,8 +94,7 @@ body {
     position: relative;
 }
 
-.resume .icon i,
-.resume .resume_right .resume_hobby ul li i {
+.resume .icon i, .resume .resume_right .resume_hobby ul li i {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -158,9 +156,7 @@ body {
     color: #00C853;
 }
 
-.resume .resume_right .resume_work ul,
-.resume .resume_right .resume_course ul,
-.resume .resume_right .resume_education ul {
+.resume .resume_right .resume_work ul, .resume .resume_right .resume_course ul, .resume .resume_right .resume_education ul {
     padding-left: 40px;
     overflow: hidden;
 }
@@ -183,9 +179,7 @@ body {
     margin-bottom: 0;
 }
 
-.resume .resume_right .resume_work ul li:before,
-.resume .resume_right .resume_course ul li:before,
-.resume .resume_right .resume_education ul li:before {
+.resume .resume_right .resume_work ul li:before, .resume .resume_right .resume_course ul li:before, .resume .resume_right .resume_education ul li:before {
     content: "";
     position: absolute;
     top: 5px;
@@ -259,7 +253,7 @@ body {
 }
 
 .fa-curseforge {
-    background: url('https://raw.githubusercontent.com/syorito-hatsuki/syorito-hatsuki/cv-page/src/main/resources/static/icons/curseforge.svg') no-repeat;
+    background: url('../icons/curseforge.svg') no-repeat;
     background-size: cover;
     display: inline-block;
     height: 10px;
@@ -267,7 +261,7 @@ body {
 }
 
 .fa-modrinth {
-    background: url('https://raw.githubusercontent.com/syorito-hatsuki/syorito-hatsuki/cv-page/src/main/resources/static/icons/modrinth.svg') no-repeat;
+    background: url('../icons/modrinth.svg') no-repeat;
     background-size: cover;
     display: inline-block;
     height: 20px;

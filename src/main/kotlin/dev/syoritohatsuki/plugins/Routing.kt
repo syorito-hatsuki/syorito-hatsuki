@@ -6,9 +6,6 @@ import io.ktor.server.routing.*
 
 fun Application.configureRouting() {
     routing {
-        static("/") {
-            staticBasePackage = "static"
-            defaultResource("index.html")
-        }
+        staticResources("/", "static", index = "index.html")
     }
 }
