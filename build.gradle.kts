@@ -3,12 +3,12 @@ val kotlinVersion: String by project
 val logbackVersion: String by project
 
 plugins {
-    kotlin("jvm") version "1.8.0"
-    id("io.ktor.plugin") version "2.2.2"
+    kotlin("jvm") version "1.8.20"
+    id("io.ktor.plugin") version "2.3.3"
 }
 
 group = "dev.syoritohatsuki"
-version = "2023.3"
+version = "2023.4"
 
 application {
     mainClass.set("dev.syoritohatsuki.ApplicationKt")
