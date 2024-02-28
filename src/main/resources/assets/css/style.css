@@ -156,7 +156,7 @@ body {
 }
 
 .resume .resume_right .resume_work ul, .resume .resume_right .resume_course ul, .resume .resume_right .resume_education ul {
-    padding-left: 40px;
+    padding-left: 42px;
     overflow: hidden;
 }
 
@@ -181,12 +181,13 @@ body {
 .resume .resume_right .resume_work ul li:before, .resume .resume_right .resume_course ul li:before, .resume .resume_right .resume_education ul li:before {
     content: "";
     position: absolute;
-    top: 5px;
+    top: 6px;
     left: -25px;
     width: 6px;
     height: 6px;
     border-radius: 50%;
     border: 2px solid #00C853;
+    background-color: white;
 }
 
 .resume .resume_right .resume_work ul li:after {
