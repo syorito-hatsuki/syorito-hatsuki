@@ -1,7 +1,7 @@
 
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Syorito%20Hatsuki&desc=Full-Stack%20Kotlin%20Developer&color=gradient&descAlignY=80&height=140&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=Syorito%20Hatsuki&desc=Full-Stack%20Developer&color=gradient&descAlignY=80&height=140&fontAlignY=40)
 
 
 <a href="" stele="color: #00000000;">
