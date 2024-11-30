@@ -243,3 +243,49 @@ body {
     height: 20px;
     width: 20px;
 }
+
+.fa-github {
+    background: url('../icons/github.svg') no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+
+.fa-google-play {
+    background: url('../icons/google-play.svg') no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    margin-left: 2px;
+}
+
+.fa-linkedin {
+    background: url('../icons/linkedin.svg') no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+
+.fa-stack-overflow {
+    background: url('../icons/stack-overflow.svg') no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+}
+
+.material-icons {
+    font-size: 20px;
+    line-height: 20px;
+}
