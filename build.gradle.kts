@@ -1,3 +1,5 @@
+import io.ktor.plugin.features.*
+
 val ktorVersion: String by project
 val kotlinVersion: String by project
 val logbackVersion: String by project
@@ -15,6 +17,23 @@ application {
 
     val isDevelopment: Boolean = project.ext.has("development")
     applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+}
+
+ktor {
+    docker {
+        jreVersion.set(JavaVersion.VERSION_17)
+        localImageName.set("cv")
+        imageTag.set(version.toString())
+        portMappings.set(
+            listOf(
+                DockerPortMapping(
+                    1541,
+                    1541,
+                    DockerPortMappingProtocol.TCP
+                )
+            )
+        )
+    }
 }
 
 repositories {
