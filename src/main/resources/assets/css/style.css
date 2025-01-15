@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
 
+@page {
+    size: A4;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -13,6 +17,8 @@ body {
     font-size: 14px;
     line-height: 22px;
     color: #555555;
+    margin: 0;
+    padding: 0;
 }
 
 .bold {
@@ -21,16 +27,29 @@ body {
     text-transform: uppercase;
 }
 
+.info ul li {
+    list-style-type: disc;
+}
+
+.info ul {
+    padding-left: 16px !important;
+}
+
+
 .semi-bold {
     font-weight: 500;
     font-size: 16px;
 }
 
 .resume {
-    width: 800px;
-    height: auto;
+    width: 793.7px; /* A4 width at 96 DPI */
+    height: auto; /* A4 height at 96 DPI */
     display: flex;
-    margin: 50px auto;
+    margin: 0 auto; /* Center horizontally */
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    position: relative;
 }
 
 .resume .resume_left {
@@ -160,25 +179,25 @@ body {
     overflow: hidden;
 }
 
-.resume .resume_right ul li {
+.resume .resume_right ul li.progress {
     position: relative;
 }
 
-.resume .resume_right ul li .date {
+.resume .resume_right ul li.progress .date {
     font-size: 16px;
     font-weight: 500;
     margin-bottom: 15px;
 }
 
-.resume .resume_right ul li .info {
+.resume .resume_right ul li.progress .info {
     margin-bottom: 20px;
 }
 
-.resume .resume_right ul li:last-child .info {
+.resume .resume_right ul li.progress:last-child .info {
     margin-bottom: 0;
 }
 
-.resume .resume_right .resume_work ul li:before, .resume .resume_right .resume_course ul li:before, .resume .resume_right .resume_education ul li:before {
+.resume .resume_right .resume_work ul li.progress:before, .resume .resume_right .resume_course ul li.progress:before, .resume .resume_right .resume_education ul li.progress:before {
     content: "";
     position: absolute;
     top: 6px;
@@ -190,7 +209,7 @@ body {
     background-color: white;
 }
 
-.resume .resume_right .resume_work ul li:after {
+.resume .resume_right .resume_work ul li.progress:after {
     content: "";
     position: absolute;
     top: 14px;
@@ -200,7 +219,7 @@ body {
     background: #00C853;
 }
 
-.resume .resume_right .resume_education ul li:after {
+.resume .resume_right .resume_education ul li.progress:after {
     content: "";
     position: absolute;
     top: 14px;
@@ -210,7 +229,7 @@ body {
     background: #00C853;
 }
 
-.resume .resume_right .resume_course ul li:after {
+.resume .resume_right .resume_course ul li.progress:after {
     content: "";
     position: absolute;
     top: 14px;
@@ -220,7 +239,7 @@ body {
     background: #00C853;
 }
 
-.resume .resume_right .resume_hobby ul li:last-child:before {
+.resume .resume_right .resume_hobby ul li.progress:last-child:before {
     display: none;
 }
 
@@ -288,4 +307,19 @@ body {
 .material-icons {
     font-size: 20px;
     line-height: 20px;
+}
+
+@media print {
+    body {
+        margin: 0;
+        padding: 0;
+        background: white;
+    }
+
+    .resume {
+        width: 210mm;
+        height: auto;
+        box-shadow: none;
+        page-break-inside: avoid;
+    }
 }
