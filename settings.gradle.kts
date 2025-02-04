@@ -1,1 +1,1 @@
-rootProject.name = "syorito-hatsuki"
+rootProject.name = "curriculum-vitae"
