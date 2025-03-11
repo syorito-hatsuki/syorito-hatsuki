@@ -10,7 +10,7 @@ plugins {
 }
 
 group = "dev.syoritohatsuki"
-version = "2025.2.1"
+version = "2025.3.1"
 
 application {
     mainClass.set("dev.syoritohatsuki.ApplicationKt")
